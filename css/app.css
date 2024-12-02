@@ -36,6 +36,9 @@ body{
 .title-card{
     font-size: 26px;
 }
+.title-card:hover{
+    color: hsl(47, 88%, 63%);
+}
 .text-card {
 	color: hsl(0, 0%,42%);
 }
